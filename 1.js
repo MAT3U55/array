@@ -1,0 +1,1 @@
+const hobbies = ['jogar', 'ouvir música', 'mecher no insta'];
